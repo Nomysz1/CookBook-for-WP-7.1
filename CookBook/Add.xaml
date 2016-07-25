@@ -1,0 +1,85 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="CookBook.Add"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,2">
+            <Canvas>
+                <Image Source="resources/food.jpg" Stretch="UniformToFill" Height="115"  Width="450"/>
+            </Canvas>
+            <TextBlock x:Name="ApplicationTitle" Text="CookBook" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="Add" Foreground="Wheat" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid ScrollViewer.VerticalScrollBarVisibility="Visible" x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,484">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top"  HorizontalAlignment="Left">
+                <Canvas Name="pizza" Height="120" Width="110">
+                    <Button Background="Silver"  Name="btnpizza" Height="120" Width="110" BorderThickness="3" BorderBrush="Wheat">
+                        <Image Height="84" Width="60" Source="resources/pizza.png"/>
+                    </Button>
+                </Canvas>
+                <Canvas Name="pasta" Height="120" Width="110">
+                    <Button Background="Silver"  Name="btnpasta" Height="120" Width="110" BorderThickness="3" BorderBrush="Wheat">
+                        <Image Height="77" Width="61" Source="resources/pasta.png"/>
+                    </Button>
+                </Canvas>
+                <Canvas Name="fish" Height="120" Width="110">
+                    <Button Background="Silver" Name="btnfish" Height="120" Width="110" BorderThickness="3" BorderBrush="Wheat">
+                        <Image Height="86" Width="60" Source="resources/fish.png"/>
+                    </Button>
+                </Canvas>
+                <Canvas Name="salad" Height="120" Width="110">
+                    <Button Background="Silver" Name="btnsalad" Height="120" Width="110" BorderThickness="3" BorderBrush="Wheat">
+                        <Image Height="81" Width="61" Source="resources/salad.png"/>
+                    </Button>
+                </Canvas>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="1" HorizontalAlignment="Left" Margin="12,113,0,0" Name="grid1" Width="468">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <Canvas Name="Christmas" Height="120" Width="110">
+                    <Button Background="Silver" Name="btnchristmas" Height="110" Width="110" BorderThickness="3" BorderBrush="Wheat">
+                        <Image Height="73" Width="61" Source="resources/christmas.png" />
+                    </Button>
+                </Canvas>
+                <Canvas Name="dessert" Height="120" Width="110" Canvas.Left="110" Canvas.Top="126">
+                    <Button Background="Silver" Name="btndessert" Height="110" Width="110" BorderThickness="3" BorderBrush="Wheat">
+                        <Image Height="77" Width="60" Source="resources/dessert.png" />
+                    </Button>
+                </Canvas>
+                <Canvas Name="quickandeasy" Height="120" Width="110" Canvas.Left="110" Canvas.Top="126">
+                    <Button Background="Silver" Name="btnquickandeasy" Height="110" Width="110" BorderThickness="3" BorderBrush="Wheat">
+                        <Image Height="76" Width="59" Source="resources/Easy.png" />
+                    </Button>
+                </Canvas>
+            </StackPanel>
+            <ScrollViewer Margin="0,104,0,86" ScrollViewer.VerticalScrollBarVisibility="Visible" BorderBrush="AliceBlue">
+                <StackPanel  Orientation="Vertical" Grid.Row="1" Height="443">
+                    <TextBox Name="tbTitle" Foreground="Black" Text="" Height="70" TextWrapping="Wrap" FontSize="26"  HorizontalAlignment="Stretch" />
+                    <TextBox Name="tbIngredients" Foreground="Black" Text="" Height="160" TextWrapping="Wrap" FontSize="26" HorizontalAlignment="Stretch" />
+                    <TextBox Name="tbPreparation" Foreground="Black" Text="" Height="250" TextWrapping="Wrap" FontSize="26" HorizontalAlignment="Stretch" />
+                </StackPanel>
+            </ScrollViewer>
+            <Button Content="Confirm" Background="CadetBlue" Name="btnConfirm" BorderThickness="4" BorderBrush="Wheat" Height="80" Width="470" Margin="-3,440,6,0" />
+        </Grid>
+    </Grid>
+</phone:PhoneApplicationPage>

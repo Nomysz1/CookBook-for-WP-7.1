@@ -1,0 +1,70 @@
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\Bin\Release\ApplicationIcon.png
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\Bin\Release\Background.png
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\Bin\Release\CookBook.dll
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\Bin\Release\CookBook.pdb
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\Bin\Release\AppManifest.xaml
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\Bin\Release\CookBook.xap
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Release\App.g.i.cs
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Release\Delete.g.i.cs
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Release\Edit.g.i.cs
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Release\MainPage.g.i.cs
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Release\Add.g.i.cs
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Release\Review.g.i.cs
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Release\CookBook.g.resources
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Release\CookBook.dll
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Release\CookBook.pdb
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Release\XapCacheFile.xml
+C:\Users\Szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Release\details.g.i.cs
+C:\Users\Szymon\Documents\cookbook\CookBook\Bin\Release\ApplicationIcon.png
+C:\Users\Szymon\Documents\cookbook\CookBook\Bin\Release\Background.png
+C:\Users\Szymon\Documents\cookbook\CookBook\Bin\Release\CookBook.dll
+C:\Users\Szymon\Documents\cookbook\CookBook\Bin\Release\CookBook.pdb
+C:\Users\Szymon\Documents\cookbook\CookBook\Bin\Release\AppManifest.xaml
+C:\Users\Szymon\Documents\cookbook\CookBook\Bin\Release\CookBook.xap
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Release\App.g.i.cs
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Release\Add.g.i.cs
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Release\Delete.g.i.cs
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Release\Edit.g.i.cs
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Release\MainPage.g.i.cs
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Release\Review.g.i.cs
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Release\CookBook.g.resources
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Release\CookBook.dll
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Release\CookBook.pdb
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Release\XapCacheFile.xml
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Release\About.g.i.cs
+I:\Projekty\cookbook\CookBook\Bin\Release\ApplicationIcon.png
+I:\Projekty\cookbook\CookBook\Bin\Release\Background.png
+I:\Projekty\cookbook\CookBook\Bin\Release\CookBook.dll
+I:\Projekty\cookbook\CookBook\Bin\Release\CookBook.pdb
+I:\Projekty\cookbook\CookBook\Bin\Release\AppManifest.xaml
+I:\Projekty\cookbook\CookBook\Bin\Release\CookBook.xap
+I:\Projekty\cookbook\CookBook\obj\Release\App.g.i.cs
+I:\Projekty\cookbook\CookBook\obj\Release\About.g.i.cs
+I:\Projekty\cookbook\CookBook\obj\Release\Add.g.i.cs
+I:\Projekty\cookbook\CookBook\obj\Release\Delete.g.i.cs
+I:\Projekty\cookbook\CookBook\obj\Release\Edit.g.i.cs
+I:\Projekty\cookbook\CookBook\obj\Release\MainPage.g.i.cs
+I:\Projekty\cookbook\CookBook\obj\Release\Review.g.i.cs
+I:\Projekty\cookbook\CookBook\obj\Release\CookBook.g.resources
+I:\Projekty\cookbook\CookBook\obj\Release\CookBook.dll
+I:\Projekty\cookbook\CookBook\obj\Release\CookBook.pdb
+I:\Projekty\cookbook\CookBook\obj\Release\XapCacheFile.xml
+I:\Projekty\cookbook\CookBook\obj\Release\SendEmail.g.i.cs
+C:\Users\Szymon\cookbook\CookBook\Bin\Release\ApplicationIcon.png
+C:\Users\Szymon\cookbook\CookBook\Bin\Release\Background.png
+C:\Users\Szymon\cookbook\CookBook\Bin\Release\CookBook.dll
+C:\Users\Szymon\cookbook\CookBook\Bin\Release\CookBook.pdb
+C:\Users\Szymon\cookbook\CookBook\Bin\Release\AppManifest.xaml
+C:\Users\Szymon\cookbook\CookBook\Bin\Release\CookBook.xap
+C:\Users\Szymon\cookbook\CookBook\obj\Release\App.g.i.cs
+C:\Users\Szymon\cookbook\CookBook\obj\Release\About.g.i.cs
+C:\Users\Szymon\cookbook\CookBook\obj\Release\Add.g.i.cs
+C:\Users\Szymon\cookbook\CookBook\obj\Release\Delete.g.i.cs
+C:\Users\Szymon\cookbook\CookBook\obj\Release\Edit.g.i.cs
+C:\Users\Szymon\cookbook\CookBook\obj\Release\MainPage.g.i.cs
+C:\Users\Szymon\cookbook\CookBook\obj\Release\Review.g.i.cs
+C:\Users\Szymon\cookbook\CookBook\obj\Release\SendEmail.g.i.cs
+C:\Users\Szymon\cookbook\CookBook\obj\Release\CookBook.g.resources
+C:\Users\Szymon\cookbook\CookBook\obj\Release\CookBook.dll
+C:\Users\Szymon\cookbook\CookBook\obj\Release\CookBook.pdb
+C:\Users\Szymon\cookbook\CookBook\obj\Release\XapCacheFile.xml

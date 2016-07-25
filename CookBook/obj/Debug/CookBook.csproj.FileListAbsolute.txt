@@ -1,0 +1,32 @@
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\Bin\Debug\ApplicationIcon.png
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\Bin\Debug\Background.png
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\Bin\Debug\CookBook.dll
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\Bin\Debug\CookBook.pdb
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\Bin\Debug\AppManifest.xaml
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\Bin\Debug\CookBook.xap
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Debug\App.g.i.cs
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Debug\CookBook.g.resources
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Debug\CookBook.dll
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Debug\CookBook.pdb
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Debug\XapCacheFile.xml
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Debug\Delete.g.i.cs
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Debug\Edit.g.i.cs
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Debug\Add.g.i.cs
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Debug\Review.g.i.cs
+c:\users\szymon\documents\visual studio 2010\Projects\CookBook\CookBook\obj\Debug\MainPage.g.i.cs
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Debug\App.g.i.cs
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Debug\Add.g.i.cs
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Debug\Delete.g.i.cs
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Debug\Edit.g.i.cs
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Debug\MainPage.g.i.cs
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Debug\Review.g.i.cs
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Debug\CookBook.g.resources
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Debug\CookBook.pdb
+C:\Users\Szymon\Documents\cookbook\CookBook\Bin\Debug\ApplicationIcon.png
+C:\Users\Szymon\Documents\cookbook\CookBook\Bin\Debug\Background.png
+C:\Users\Szymon\Documents\cookbook\CookBook\Bin\Debug\CookBook.dll
+C:\Users\Szymon\Documents\cookbook\CookBook\Bin\Debug\CookBook.pdb
+C:\Users\Szymon\Documents\cookbook\CookBook\Bin\Debug\AppManifest.xaml
+C:\Users\Szymon\Documents\cookbook\CookBook\Bin\Debug\CookBook.xap
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Debug\CookBook.dll
+C:\Users\Szymon\Documents\cookbook\CookBook\obj\Debug\XapCacheFile.xml
