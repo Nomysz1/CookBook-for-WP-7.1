@@ -1,7 +1,7 @@
 # CookBook-for-WP-7.1
 This app can be used for store your recipes.
 
-Main feautres : 
+Main feautures : 
 
 1) Add recipes
 2) Review recipes
